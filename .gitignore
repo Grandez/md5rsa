@@ -1,3 +1,11 @@
+#  hidden files
+.*
+*.bak
+
+.settings/*
+Debug/*
+Release/*
+
 # Prerequisites
 *.d
 
